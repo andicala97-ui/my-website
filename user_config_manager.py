@@ -1,5 +1,5 @@
 
->>> def add_setting(settings, new_setting):
+def add_setting(settings, new_setting):
 ...     key, value = new_setting
 ...     key = key.lower()
 ...     value = value.lower()
